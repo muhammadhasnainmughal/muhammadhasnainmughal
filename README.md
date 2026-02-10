@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasnain Mughal</h1>
-<h3 align="center">Undergraduate Computer Science at Sukkur IBA University | SIBA'27 | Software Developer | Passionate Programmer from Pakistan</h3>
+<h3 align="center">Undergraduate Computer Science at Sukkur IBA University | SIBA'27 | Software Developer | Web Developer | Passionate Programmer from Pakistan</h3>
 
 
 
