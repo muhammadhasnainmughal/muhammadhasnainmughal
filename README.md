@@ -24,7 +24,7 @@
 
 ## 💼 Hire Me
 
-Need a website built or fixed?  
+Need a Remote-Work or On-Site Developer?  
 📌 [Hire me](muhammadhasnain.bscsf23@iba-suk-edu-pk)
 
 ---
