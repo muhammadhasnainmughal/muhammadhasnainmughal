@@ -7,7 +7,7 @@
 
 - 🔗 GitHub: [https://github.com/muhammadhasnainmughal](https://github.com/muhammadhasnainmughal)
 
-- 📫 How to reach me **muhammadhasnain.bscsf23@gmail.com**
+- 📫 How to reach me **muhammadhasnain.bscsf23@iba-suk.edu.pk**
 ---
 
 ## 🔗 Socials
